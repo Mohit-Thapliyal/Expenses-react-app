@@ -52,6 +52,6 @@ Start the server
 
 ## Screenshots
 
-![plot1](./demo/desktop1)
-![plot2](./demo/desktop2)
-![plot3](./demo/mobile1)
+![plot1](./demo/desktop1.png)
+![plot2](./demo/desktop2.png)
+![plot3](./demo/mobile1.png)
