@@ -7,20 +7,20 @@ const DUMMY_EXPENSES = [
     id: "e1",
     title: "किताब",
     amount: 350,
-    date: new Date(2020, 7, 14),
+    date: new Date(2021, 7, 14),
   },
-  { id: "e2", title: "नया टी.वी. ", amount: 14999, date: new Date(2021, 2, 12) },
+  { id: "e2", title: "नया टी.वी. ", amount: 14999, date: new Date(2022, 2, 12) },
   {
     id: "e3",
     title: "गाड़ी का बीमा",
     amount: 11375,
-    date: new Date(2021, 3, 28),
+    date: new Date(2022, 3, 28),
   },
   {
     id: "e4",
     title: "नया मेज़ (लकड़ी का)",
     amount: 4500,
-    date: new Date(2021, 5, 12),
+    date: new Date(2022, 5, 12),
   },
 ];
 
